@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://godweiyang.com/"/>
-  <updated>2020-05-01T01:49:33.197Z</updated>
+  <updated>2020-06-22T02:01:30.551Z</updated>
   <id>https://godweiyang.com/</id>
   
   <author>
@@ -18,10 +18,32 @@
   
   <entry>
     <title>[object Object]</title>
-    <link href="https://godweiyang.com/2020/05/01/article-title/"/>
-    <id>https://godweiyang.com/2020/05/01/article-title/</id>
+    <link href="https://godweiyang.com/2020/06/22/article-title/"/>
+    <id>https://godweiyang.com/2020/06/22/article-title/</id>
+    <published>2020-06-22T02:01:30.551Z</published>
+    <updated>2020-06-22T02:01:30.551Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;欢迎使用-Cmd-Markdown-编辑阅读器&quot;&gt;&lt;a href=&quot;#欢迎使用-Cmd-Markdown-编辑阅读器&quot; class=&quot;headerlink&quot; title=&quot;欢迎使用 Cmd Markdown 编辑阅读器&quot;&gt;&lt;/a&gt;欢迎使用 Cmd
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>mark速成</title>
+    <link href="https://godweiyang.com/2020/05/01/markdown/"/>
+    <id>https://godweiyang.com/2020/05/01/markdown/</id>
     <published>2020-05-01T00:54:22.426Z</published>
-    <updated>2020-05-01T01:49:33.197Z</updated>
+    <updated>2020-06-22T02:00:13.312Z</updated>
     
     <summary type="html">
     
